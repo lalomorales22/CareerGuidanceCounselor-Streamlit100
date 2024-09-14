@@ -17,7 +17,7 @@ Career Guidance Counselor is a Streamlit-based application that uses AI to provi
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/career-guidance-counselor.git
+   git clone https://github.com/lalomorales22/CareerGuidanceCounselor-Streamlit100.git
    cd career-guidance-counselor
    ```
 
